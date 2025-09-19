@@ -45,3 +45,5 @@ By implementing these primitives in hardware, we can achieve:
 - _Goal:_ Integrate a digital signature verification engine that leverages the hardware hash accelerator
 - _Purpose:_ Real-world applied security application for message and code authentication
 - _Status:_ Planned
+
+## License
