@@ -47,3 +47,4 @@ By implementing these primitives in hardware, we can achieve:
 - _Status:_ Planned
 
 ## License
+This project is licensed under - see the [LICENSE]() file for details.
