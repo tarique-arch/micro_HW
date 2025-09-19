@@ -1,6 +1,6 @@
 # Microwatt Security Extension – Hardware Hash & Digital Signature Verification
 
-## Overview
+## Module overview
 
 This project extends the Microwatt POWER CPU core with security-oriented functionality, progressing through a three-stage roadmap:
 
@@ -12,7 +12,7 @@ This evolution takes the project from a simple proof-of-concept to a practical h
 
 The work is developed within the OpenFrame _User Project (UP)_ area, demonstrating how open-source CPUs can be customized for trust, integrity.
 
-## Motivation
+### Motivation
 
 Modern computing relies fundamentally on hashing and digital signatures for:
 
@@ -26,7 +26,7 @@ By implementing these primitives in hardware, we can achieve:
 - _Stronger security_ primitives at the CPU level
 - A clear _demonstration_ of how open CPUs like Microwatt can evolve to meet future secure computing needs
 
-## Project Roadmap
+## Designing
 
 ### Stage 1: Custom Hash Instruction (MVP)
 
@@ -46,6 +46,13 @@ By implementing these primitives in hardware, we can achieve:
 - _Purpose:_ Real-world applied security application for message and code authentication
 - _Status:_ Planned
 
+## Building
+--To be completed
+
+## Contributing
+--To be completed
+
 ## License
 This project is licensed under MIT License - see the [Project LICENSE](https://github.com/tarique-arch/micro_HW/blob/main/Project%20LICENSE) file for details.
+
 
