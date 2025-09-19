@@ -47,4 +47,5 @@ By implementing these primitives in hardware, we can achieve:
 - _Status:_ Planned
 
 ## License
-This project is licensed under - see the [LICENSE]() file for details.
+This project is licensed under MIT License - see the [Project LICENSE](https://github.com/tarique-arch/micro_HW/blob/main/Project%20LICENSE) file for details.
+
